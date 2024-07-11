@@ -7,8 +7,14 @@ toc_max_heading_level: 2
 
 ## 最近更新
 
+### 💫 杂项
+
+- Plugin: 修改插件 miragetank \& charpic 信息 [@1umine](https://github.com/1umine) ([#2807](https://github.com/nonebot/nonebot2/pull/2807))
+
 ### 🍻 插件发布
 
+- Plugin: 鸣潮wiki [@noneflow](https://github.com/noneflow) ([#2804](https://github.com/nonebot/nonebot2/pull/2804))
+- Plugin: cloudfare R2 客服端 [@noneflow](https://github.com/noneflow) ([#2806](https://github.com/nonebot/nonebot2/pull/2806))
 - Plugin: AnyMate小助手 [@noneflow](https://github.com/noneflow) ([#2761](https://github.com/nonebot/nonebot2/pull/2761))
 
 ## v2.3.2
